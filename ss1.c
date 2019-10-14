@@ -4,7 +4,7 @@ int main() {
 	
 	int szam = 0;
 	
-	for(int i = 100; i < 200; i++)
+	for(int i = 100; i < 300; i++)
 	{
 		if(i % 9 == 0)
 		{
